@@ -1,2 +1,3 @@
-# py-dev-m4-base
-Modul 4 - Python Developer program obrazovanja
+# PyDev repo za M4 "Razvoj web aplikacija u programskom jeziku Python"
+
+Osnovni repo za "Razvoj web aplikacija u programskom jeziku Python", modul 4, Python Developer programa obrazovanja.
